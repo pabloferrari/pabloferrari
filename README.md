@@ -2,22 +2,22 @@
 
 I'm Pablo Ferrari, a passionate backend developer 👨‍💻 from Buenos Aires, Argentina 🇦🇷
 
-#### 😄 Tech Stack
+#### 😄  Tech Stack
 * ⚡ PHP - Laravel, Code Igniter | NodeJs - Express + TypeScript
 * 🛢️ MySql | MongoDB | Redis
 * ☁ AWS | Linux | Docker | Kubernetes | GIT | API Rest | GraphQL
 
-#### 🌱 Currently learning:
+#### 🌱  Currently learning:
 
 - **English**: A pending task. Getting to have a fluid conversation.
 - **Frontend**: Vue (in my job) and React/Next (independent)
 - **DevOps**: Interested in the DevOps culture and process automation with Terraform, Docker and Kubernetes. 
 
-#### 📸 I love to do:
+#### 📸  I love to do:
 
 - 👨‍🍳 Cooking, 🏃‍♂️Running and playing with my doggy <a target="_blank" href="https://instagram.com/deinabatata">🐶</a>
 
-#### 📫 Let's create something awesome together!
+#### 📫  Let's create something awesome together!
 <a href="https://twitter.com/HerrFerra" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/pablo.ferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/pabloferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
