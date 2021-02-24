@@ -9,7 +9,6 @@ I'm Pablo Ferrari, a passionate backend developer 👨‍💻 from Buenos Aires,
 
 #### 🌱  Currently learning:
 
-- **English**: A pending task. Getting to have a fluid conversation.
 - **Frontend**: Vue (in my job) and React/Next (independent)
 - **DevOps**: Interested in the DevOps culture and process automation with Terraform, Docker and Kubernetes. 
 
