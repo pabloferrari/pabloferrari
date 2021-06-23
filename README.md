@@ -21,7 +21,7 @@ I'm Pablo Ferrari, a passionate backend developer 👨‍💻 from Buenos Aires,
 <a href="https://www.instagram.com/pablo.ferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/pabloferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/pabloferrari" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://pabloferrari.co/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<a href="https://pabloferrari.co/?s=github" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 <!--
 **pabloferrari/pabloferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
