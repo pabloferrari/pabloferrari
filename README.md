@@ -17,7 +17,7 @@ I'm Pablo Ferrari, a passionate backend developer 👨‍💻 from Buenos Aires,
 - 👨‍🍳 Cooking, 🏃‍♂️Running and playing with my doggy <a target="_blank" href="https://instagram.com/deinabatata">🐶</a>
 
 #### 📫  Let's create something awesome together!
-<a href="https://twitter.com/HerrFerra" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://twitter.com/HerrFerra" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30" style="background-color: grey;border-radius: 20px;"></a>
 <a href="https://www.instagram.com/pablo.ferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/pabloferrari/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/pabloferrari" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
