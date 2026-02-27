@@ -1,28 +1,19 @@
 ### Hi, I'm Pablo Ferrari 👋
 
-Backend developer from Buenos Aires 🇦🇷, specialized in **payment integrations and external API connections** — across US, European and Asian markets.
+Full Stack Developer with 10+ years of experience building scalable systems for international companies. My focus is on **integrating complex third-party platforms and APIs** — wherever the system boundary is, I've likely connected something on both sides of it.
 
-If you need to wire up a payment gateway, connect a shipping carrier, or integrate any third-party platform into your system, that's my wheelhouse.
-
----
-
-### 💳 Payment Gateways
-
-I've integrated payment systems across multiple regions and providers:
-
-`WorldPay` `Nuvei` `Network Merchants` `JusPay` `PayU` `2C2P` `NicePay` `Trust`
-`Authorize.net (eCheck)` `PayPal` `Apple Pay` `Google Pay`
-
-🌎 US &nbsp;·&nbsp; 🌍 Europe &nbsp;·&nbsp; 🌏 Asia-Pacific
+Backend is my core, but I'm comfortable across the full stack.
 
 ---
 
-### 🔌 What I build
+### 🔌 What I integrate
 
-- Payment gateway integrations — from checkout to reconciliation & webhooks
-- Shipping & logistics API connections (carrier selection, tracking, label gen)
-- Marketplace and publishing platform sync
-- REST and GraphQL APIs
+Over the years, that's meant working with very different ecosystems:
+
+- **Payments & Fintech** — WorldPay, Nuvei, JusPay, 2C2P, PayU, NicePay, Network Merchants, Authorize.net, PayPal, Apple Pay, Google Pay, Trust — across US, European and Asian markets
+- **Crypto** — crypto payment platforms and wallet integrations
+- **Shipping & Logistics** — carrier APIs, tracking, label generation
+- **Marketplaces & Publishing** — inventory, orders and product data sync across platforms
 
 ---
 
@@ -34,7 +25,7 @@ I've integrated payment systems across multiple regions and providers:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
+  
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -54,7 +45,7 @@ I've integrated payment systems across multiple regions and providers:
 
 ### Off the keyboard
 
-👨‍🍳 Cooking &nbsp;·&nbsp; 🏃‍♂️ Running &nbsp;·&nbsp; 🐶 Playing with [Batata](https://instagram.com/deinabatata)
+🏃‍♂️ Marathon runner &nbsp;·&nbsp; 👨‍🍳 Cooking &nbsp;·&nbsp; 🐶 Playing with [Batata](https://instagram.com/deinabatata)
 
 ---
 
